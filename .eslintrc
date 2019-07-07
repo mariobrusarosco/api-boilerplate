@@ -1,0 +1,12 @@
+{
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "comma-dangle": 0
+	},
+	"parserOptions": {
+		"sourceType": "module",
+    "allowImportExportEverywhere": false
+	}
+}

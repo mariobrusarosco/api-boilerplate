@@ -1,0 +1,12 @@
+{
+  "name": "api-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mariobrusarosco/api-boilerplate.git",
+  "author": "Mario Brusarosco <mariobrusarosco@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
